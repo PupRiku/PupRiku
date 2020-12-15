@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there and welcome to my profile!
+
+- 😄 Pronouns: He/Him/His
+- 🔭 I’m currently working on my porfolio website.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and Python
+- 📫 How to reach me: chris.diorio12@gmail.com
 
 <!--
 **PupRiku/PupRiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
