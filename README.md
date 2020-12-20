@@ -1,7 +1,7 @@
 ### Hi there and welcome to my profile!
 
 - 😄 Pronouns: He/Him/His
-- 🔭 I’m currently working on my porfolio website.
+- 🔭 I’m currently working on a React App.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and Python
 - 📫 How to reach me: chris.diorio12@gmail.com
 
